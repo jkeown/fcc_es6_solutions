@@ -3,7 +3,7 @@
 
 function getLength(str) {
   "use strict";
-
+  
   // change code below this line
   const {length:len} = str; // change this <--- this becomes str.length
   // change code above this line
