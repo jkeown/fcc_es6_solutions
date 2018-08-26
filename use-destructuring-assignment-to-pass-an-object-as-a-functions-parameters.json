@@ -21,4 +21,4 @@ const half = (function() {
 
 })();
 console.log(stats); // should be object
-console.log(half(stats)); // should be 28.015</index.js>
+console.log(half(stats)); // should be 28.015
