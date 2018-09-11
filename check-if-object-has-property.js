@@ -28,3 +28,9 @@ function isEveryoneHere(obj) {
 }
 
 console.log(isEveryoneHere(users));
+
+// FCC solution much better:
+
+// function isEveryoneHere(obj) {
+//   return (users.hasOwnProperty('Alan','Jeff','Sarah','Ryan')) ? true : false;
+// }
