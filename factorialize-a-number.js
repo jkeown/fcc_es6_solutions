@@ -12,4 +12,3 @@ function factorialize(num) {
 
 factorialize(5);
 
-// TRY REFACTORING WITH reduceRight()
