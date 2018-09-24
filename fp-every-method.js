@@ -8,3 +8,5 @@ function checkPositive(arr) {
   // Add your code above this line
 }
 checkPositive([1, 2, 3, -4, 5]);
+
+// basically some code for using the .some() method
