@@ -10,7 +10,7 @@ function whatIsInAName(collection, source) {
   collection.forEach(function(obj){ 
     let objKeys = Object.keys(obj);
 
-    if(sourceKeys.every((key) => objKeys.includes(key) && source[key] == obj[key])){
+    if(sourceKeys.every((key) => objKeys.includes(key) && source[key] === obj[key])){
       arr.push(obj);
     }
   });
