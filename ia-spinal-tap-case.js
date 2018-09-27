@@ -26,4 +26,4 @@ spinalCase('This Is Spinal Tap');
 //    .join('') .replace(/\W+/g,'-');
 
 
-// ALL TESTS PASS EXCEPT FOR spinalCase("The_Andy_Griffith_Show") should return "the-andy-griffith-show".
+// ALL TESTS PASS EXCEPT FOR spinalCase("The_Andy_Griffith_Show") should return "the-andy-griffith-show"
