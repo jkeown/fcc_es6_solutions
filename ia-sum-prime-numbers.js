@@ -34,3 +34,6 @@ function sumPrimes(num){
 }
 
 sumPrimes(10);
+
+
+// was trying take more of a functional programming approach but is this heading towards callback hell ???
